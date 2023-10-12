@@ -53,6 +53,11 @@ form input::placeholder {
 
 }
 
+/* #submitForm {
+    width: 100%;
+}
+ */
+
 #submitForm:hover {
     background-color: #1a8e5e
 }
@@ -214,6 +219,11 @@ a {
         background-image: url(../images/bg-intro-mobile.png);
         background-size: cover;
 
+    }
+
+
+    #submitForm {
+        width: 17rem;
     }
 
 
